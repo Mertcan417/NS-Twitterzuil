@@ -1,5 +1,5 @@
 # Schoolopdracht
-Dit is een schoolopdracht, wat ik in het eerste jaar heb gerealiseerd. Dit is mijn allereerste project, waar ik kennis heb gemaakt met software ontwikkeling.
+Dit is een verzonnen schoolopdracht, wat ik in het eerste jaar heb gerealiseerd. Dit is mijn allereerste project, waar ik kennis heb gemaakt met software ontwikkeling. 
 
 # NS-Consumenten zuil
 ## Aanleiding
