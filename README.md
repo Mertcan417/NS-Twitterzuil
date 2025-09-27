@@ -43,8 +43,13 @@ Let op: de Twitter-API levert geen XML, maar JSON!
 <img width="452" height="520" alt="afbeelding" src="https://github.com/user-attachments/assets/0e9e9f84-902f-4176-b7fd-de2ec92cfa05" />
 
 # Technische modellen (UML, ERD)
+## BPMN
 <img width="1026" height="625" alt="afbeelding" src="https://github.com/user-attachments/assets/124fefe3-a9d2-4e52-8481-47eaade663a2" />
+
+## Use case diagram
 <img width="865" height="384" alt="afbeelding" src="https://github.com/user-attachments/assets/3ca6c079-834f-426a-b135-7fc79a82fac7" />
+
+## ERD
 <img width="753" height="259" alt="afbeelding" src="https://github.com/user-attachments/assets/eb4f34dd-b2c9-4dc0-8a8d-c020bbf97c47" />
 <img width="778" height="283" alt="afbeelding" src="https://github.com/user-attachments/assets/a8f7d3bd-03fc-4935-8ce1-1bd504960341" />
 <img width="865" height="259" alt="afbeelding" src="https://github.com/user-attachments/assets/3c4711f9-3378-4053-afa6-852872ce7846" />
